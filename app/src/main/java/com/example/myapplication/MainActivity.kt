@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         visa = findViewById(R.id.main_layout)
 
             //text prov
-
+            //hej igen
 
     }
 }
