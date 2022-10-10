@@ -19,8 +19,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         visa = findViewById(R.id.main_layout)
-        
 
+            //text prov
 
 
     }
