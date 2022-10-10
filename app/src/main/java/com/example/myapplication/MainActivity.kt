@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
 
             //text prov
             //hej igen
+        //pröv
 
     }
 }
